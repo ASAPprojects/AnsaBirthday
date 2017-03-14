@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+.ansa-bg {
+    background: -webkit-linear-gradient(orange -71%, #f15353);
+}
+.ansa-text {
+    color: #f15353;
+}
+.text-white {
+    color: #fff;
+}

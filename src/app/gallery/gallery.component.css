@@ -1,0 +1,11 @@
+.container {
+    background: #fff;
+    height: 100vh;
+    padding: 0px;
+}
+.icon-next.carousel-control-next-icon, .icon-prev.carousel-control-prev-icon {
+    cursor: pointer;
+}
+img {
+    width: 100%;
+}

@@ -1,0 +1,20 @@
+.container {
+    background: #fff;
+    height: 100vh;
+    padding: 0px;
+}
+.container img {
+    width: inherit;
+}
+.happy-birthday-text {
+    font-size: 8em;
+    font-weight: 900;
+    margin: 0;
+    letter-spacing: 4.65px;
+    position: absolute;
+}
+@media (min-width: 500px) {
+    h1 {
+        font-size: 4em;
+    }
+}

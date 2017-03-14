@@ -1,0 +1,7 @@
+<div class="container">
+  <div class="row">
+    <div *ngFor="let person of wishesArray; let i = index">
+      <app-wishes-card [person]="person" [i]="i"></app-wishes-card>
+    </div>
+  </div>
+</div>
