@@ -24,7 +24,7 @@ var GalleryComponent = (function () {
     GalleryComponent.prototype.ngOnInit = function () {
     };
     GalleryComponent = __decorate([
-        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Component */])({
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["y" /* Component */])({
             selector: 'app-gallery',
             template: __webpack_require__(538),
             styles: [__webpack_require__(522)],
@@ -60,7 +60,7 @@ var HomeComponent = (function () {
     HomeComponent.prototype.ngOnInit = function () {
     };
     HomeComponent = __decorate([
-        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Component */])({
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["y" /* Component */])({
             selector: 'app-home',
             template: __webpack_require__(540),
             styles: [__webpack_require__(524)]
@@ -103,7 +103,7 @@ var WishesComponent = (function () {
             },
             { name: 'Abhishek',
                 msg: 'Happy birthday Ansa',
-                src: 'assets/images/others/arjun.jpg'
+                src: 'assets/images/others/abhishek.jpg'
             },
             { name: 'Preeja',
                 msg: 'Happy birthday to the most beautiful girl. Thank you soo much for being you:) And we do miss you a lot. And i would like to thank you for all those wonderful gifts you create on each of our bdays to make it special :) love you so much',
@@ -111,7 +111,7 @@ var WishesComponent = (function () {
             },
             { name: 'Pooja',
                 msg: 'Happy birthday darling.. My infy bangalore journey has been made special by u in every step.. U are an amazing roommate friend teammate and most of all an amazing human being. I have learnt a hell lot of things from you.. Ul always be my moral support.. Even if u dont know it :) ur being there is enough.. Loads of love 2 the prettiest girl I know.. Wishing u love luck health wealth and wisdom on this birthday.. May God bless you my dear :)',
-                src: 'assets/images/others/arjun.jpg'
+                src: 'assets/images/others/pooja.png'
             },
             { name: 'Puja',
                 msg: 'Dear Ansa, Wish you a very happy and joyful life ahead. May all your dreams come true. Happy Birthday !!!',
@@ -135,41 +135,41 @@ var WishesComponent = (function () {
             },
             { name: 'Gaurav',
                 msg: 'Happy birthdayy Ansa. God bless you. Have an awesome day and a super awesome year ahead :)',
-                src: 'assets/images/others/vishnu.jpg'
+                src: 'assets/images/others/gaurav.jpg'
             },
             { name: 'akshatha',
                 msg: 'Happy birthdayy Ansa :)',
-                src: 'assets/images/others/vishnu.jpg'
+                src: 'assets/images/others/akshatha.jpg'
             },
             { name: 'nitin',
                 msg: 'Great colleagues are those who make work seem like play. Happy Birthday to one such awesome person :)',
-                src: 'assets/images/others/vishnu.jpg'
+                src: 'assets/images/others/nitin.jpg'
             },
             { name: 'abhishek',
                 msg: 'If your cubicle wasnt next to mine, I dont think coming to work would have been an experience so fine. Happy birthday buddy :)',
-                src: 'assets/images/others/vishnu.jpg'
+                src: 'assets/images/others/abhishek2.jpg'
             },
             { name: 'abhra',
                 msg: 'If they turn away, n desert u wen crossing the wilderness, trample the yjorns under thy tread, and along the blood-lined track travel alone. If they shut doors and do not hold up the light when the night is troubled with storm, with the thunder flame of pain ignite your own heart, and let it burn alone. :)',
-                src: 'assets/images/others/vishnu.jpg'
+                src: 'assets/images/others/abhra.jpg'
             },
             { name: 'yogi',
                 msg: 'Wish u a very happy birthday, have a lots of fun. And never loose your smile, it is a gift for you and others. I wish you get lots of happiness and everything you want in life. Saubhagyavati bhav :)',
-                src: 'assets/images/others/vishnu.jpg'
+                src: 'assets/images/others/jyogi.jpg'
             },
             { name: 'palak',
                 msg: 'Ansa, you are one of the most adorable people ive known. Your so very pretty smile cheers everyone up. Very few people have a heart like yours. I find myself blessed with your friendship. A very happy birthday to you. May you get all the success and happiness in life. May you always remain this colorful... cheers :)',
-                src: 'assets/images/others/vishnu.jpg'
+                src: 'assets/images/others/palak.jpg'
             }, { name: 'sneha',
                 msg: 'You awesome spirit, A vibe so nice comes out when you are around, you blink & you wink, you dance & you sing, And then, you amaze me with the nerd inside you. Now, what to call you; the beauty they all look for? with love :)',
-                src: 'assets/images/others/vishnu.jpg'
+                src: 'assets/images/others/sneha.jpg'
             }
         ];
     }
     WishesComponent.prototype.ngOnInit = function () {
     };
     WishesComponent = __decorate([
-        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Component */])({
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["y" /* Component */])({
             selector: 'app-wishes',
             template: __webpack_require__(542),
             styles: [__webpack_require__(526)]
@@ -284,7 +284,7 @@ var AppComponent = (function () {
         this.title = 'app works!';
     }
     AppComponent = __decorate([
-        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Component */])({
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["y" /* Component */])({
             selector: 'app-root',
             template: __webpack_require__(537),
             styles: [__webpack_require__(521)]
@@ -305,14 +305,15 @@ var AppComponent = (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_forms__ = __webpack_require__(420);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_http__ = __webpack_require__(426);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_ng2_bootstrap_carousel__ = __webpack_require__(318);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__app_routing_module__ = __webpack_require__(461);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__app_component__ = __webpack_require__(462);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__header_header_component__ = __webpack_require__(464);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__home_home_component__ = __webpack_require__(304);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__wishes_wishes_component__ = __webpack_require__(305);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__wishes_card_wishes_card_component__ = __webpack_require__(465);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__gallery_gallery_component__ = __webpack_require__(303);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__angular_common__ = __webpack_require__(55);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_ng2_bootstrap_carousel__ = __webpack_require__(318);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__app_routing_module__ = __webpack_require__(461);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__app_component__ = __webpack_require__(462);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__header_header_component__ = __webpack_require__(464);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__home_home_component__ = __webpack_require__(304);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__wishes_wishes_component__ = __webpack_require__(305);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__wishes_card_wishes_card_component__ = __webpack_require__(465);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__gallery_gallery_component__ = __webpack_require__(303);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppModule; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -335,28 +336,29 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 
 
+
 var AppModule = (function () {
     function AppModule() {
     }
     AppModule = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__angular_core__["b" /* NgModule */])({
             declarations: [
-                __WEBPACK_IMPORTED_MODULE_6__app_component__["a" /* AppComponent */],
-                __WEBPACK_IMPORTED_MODULE_7__header_header_component__["a" /* HeaderComponent */],
-                __WEBPACK_IMPORTED_MODULE_8__home_home_component__["a" /* HomeComponent */],
-                __WEBPACK_IMPORTED_MODULE_9__wishes_wishes_component__["a" /* WishesComponent */],
-                __WEBPACK_IMPORTED_MODULE_10__wishes_card_wishes_card_component__["a" /* WishesCardComponent */],
-                __WEBPACK_IMPORTED_MODULE_11__gallery_gallery_component__["a" /* GalleryComponent */]
+                __WEBPACK_IMPORTED_MODULE_7__app_component__["a" /* AppComponent */],
+                __WEBPACK_IMPORTED_MODULE_8__header_header_component__["a" /* HeaderComponent */],
+                __WEBPACK_IMPORTED_MODULE_9__home_home_component__["a" /* HomeComponent */],
+                __WEBPACK_IMPORTED_MODULE_10__wishes_wishes_component__["a" /* WishesComponent */],
+                __WEBPACK_IMPORTED_MODULE_11__wishes_card_wishes_card_component__["a" /* WishesCardComponent */],
+                __WEBPACK_IMPORTED_MODULE_12__gallery_gallery_component__["a" /* GalleryComponent */]
             ],
             imports: [
                 __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["a" /* BrowserModule */],
                 __WEBPACK_IMPORTED_MODULE_2__angular_forms__["a" /* FormsModule */],
                 __WEBPACK_IMPORTED_MODULE_3__angular_http__["a" /* HttpModule */],
-                __WEBPACK_IMPORTED_MODULE_5__app_routing_module__["a" /* AppRoutingModule */],
-                __WEBPACK_IMPORTED_MODULE_4_ng2_bootstrap_carousel__["a" /* CarouselModule */].forRoot()
+                __WEBPACK_IMPORTED_MODULE_6__app_routing_module__["a" /* AppRoutingModule */],
+                __WEBPACK_IMPORTED_MODULE_5_ng2_bootstrap_carousel__["a" /* CarouselModule */].forRoot()
             ],
-            providers: [],
-            bootstrap: [__WEBPACK_IMPORTED_MODULE_6__app_component__["a" /* AppComponent */]]
+            providers: [__WEBPACK_IMPORTED_MODULE_4__angular_common__["a" /* Location */], { provide: __WEBPACK_IMPORTED_MODULE_4__angular_common__["b" /* LocationStrategy */], useClass: __WEBPACK_IMPORTED_MODULE_4__angular_common__["c" /* HashLocationStrategy */] }],
+            bootstrap: [__WEBPACK_IMPORTED_MODULE_7__app_component__["a" /* AppComponent */]]
         }), 
         __metadata('design:paramtypes', [])
     ], AppModule);
@@ -388,7 +390,7 @@ var HeaderComponent = (function () {
     HeaderComponent.prototype.ngOnInit = function () {
     };
     HeaderComponent = __decorate([
-        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Component */])({
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["y" /* Component */])({
             selector: 'app-header',
             template: __webpack_require__(539),
             styles: [__webpack_require__(523)]
@@ -423,15 +425,15 @@ var WishesCardComponent = (function () {
     WishesCardComponent.prototype.ngOnInit = function () {
     };
     __decorate([
-        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["f" /* Input */])(), 
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["l" /* Input */])(), 
         __metadata('design:type', Object)
     ], WishesCardComponent.prototype, "person", void 0);
     __decorate([
-        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["f" /* Input */])(), 
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["l" /* Input */])(), 
         __metadata('design:type', Number)
     ], WishesCardComponent.prototype, "i", void 0);
     WishesCardComponent = __decorate([
-        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Component */])({
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["y" /* Component */])({
             selector: 'app-wishes-card',
             template: __webpack_require__(541),
             styles: [__webpack_require__(525)]
@@ -540,7 +542,7 @@ exports = module.exports = __webpack_require__(31)();
 
 
 // module
-exports.push([module.i, ".msg-box {\r\n    width: 400px;\r\n    height: 200px;\r\n    margin: 30px auto;\r\n    border-radius: 10px;\r\n    position: relative;\r\n    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.49);\r\n}\r\n.img-circle {\r\n    position: absolute;\r\n    width: 150px;\r\n    min-height: 150px;\r\n    top: 25px;\r\n    left: -75px;\r\n}\r\n.msg-box span {\r\n    display: inline-block;\r\n    font-family: 'Pacifico', cursive;\r\n    margin-left: 80px;\r\n    padding: 10px;\r\n}", ""]);
+exports.push([module.i, ".msg-box {\r\n    width: 400px;\r\n    height: 200px;\r\n    margin: 30px auto;\r\n    border-radius: 10px;\r\n    position: relative;\r\n    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.49);\r\n}\r\n.img-circle {\r\n    position: absolute;\r\n    width: 150px;\r\n    height: 150px;\r\n    top: 25px;\r\n    left: -75px;\r\n}\r\n.msg-box span {\r\n    display: inline-block;\r\n    font-family: 'Pacifico', cursive;\r\n    margin-left: 80px;\r\n    padding: 10px;\r\n}", ""]);
 
 // exports
 
@@ -558,7 +560,7 @@ exports = module.exports = __webpack_require__(31)();
 
 
 // module
-exports.push([module.i, ".container {\r\n    background: #fff;\r\n    min-height: 100vh;\r\n    padding: 0px;\r\n}\r\n.row div {\r\n        margin: 25px;\r\n}", ""]);
+exports.push([module.i, ".container {\r\n    background: #fff;\r\n    min-height: 100vh;\r\n    padding: 0px;\r\n}\r\n.row div {\r\n    margin: 25px;\r\n}\r\n#special-card .msg-box, #special-card-2 .msg-box{\r\n    width: 100%;\r\n    height: auto;\r\n    margin: 30px 30px;\r\n    border-radius: 10px;\r\n    position: relative;\r\n    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.49);\r\n}\r\n#special-card .img-circle{\r\n    position: absolute;\r\n    width: 150px;\r\n    height: 150px;\r\n    left: 4px;\r\n    bottom: 1px;\r\n}\r\n#special-card .custom-card, #special-card-2 .custom-card {\r\n    display: block;\r\n    max-width: 90%;\r\n    height: auto;\r\n    padding: 20px;\r\n    border-radius: 60px;\r\n    margin-left: 96px;\r\n}\r\n#special-card-2 video {\r\n    padding: 25px;\r\n}\r\n#special-card-2 .custom-card {\r\n    margin-right: auto;\r\n    margin-left: auto;\r\n}", ""]);
 
 // exports
 
@@ -578,7 +580,7 @@ module.exports = "<app-header></app-header>\n<router-outlet></router-outlet>\n"
 /***/ 538:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"container\">\n<carousel>\n  <slide>\n    <img src=\"assets/images/ansa/thiruvathira.png\" alt=\"First slide\" class=\"max-height\">\n    <div class=\"carousel-caption hide\">\n      <h3>Thiruvathara</h3>\n      <p>Come onam, and you can see her dance like a peacock with a lot of grace and elegance</p>\n    </div>\n  </slide>\n  <slide>\n    <img src=\"assets/images/ansa/moral-support.png\" alt=\"Second slide\" class=\"max-height\">\n    <div class=\"carousel-caption hide\">\n      <h3>Bharatanatyam</h3>\n      <p>You need someone to step into a classic dance attire dipicting various emotions through expressions, then she is the one you should call.</p>\n    </div>\n  </slide>\n  <slide>\n    <img src=\"assets/images/ansa/simplicity.png\" alt=\"Third slide\" class=\"max-height\">\n    <div class=\"carousel-caption hide\">\n      <h3>Moral support</h3>\n      <p>You feel confident, want to feel like there is always someone by your side... she's there isn't she?!</p>\n    </div>\n  </slide>\n    <slide>\n    <img src=\"assets/images/ansa/smile.png\" alt=\"Third slide\" class=\"max-height\">\n    <div class=\"carousel-caption hide\">\n      <h3>Smile</h3>\n      <p>People say smile is the prettiest thing on face,... need i say anything?!</p>\n    </div>\n  </slide>\n    <slide>\n    <img src=\"assets/images/ansa/bharathanaryam.png\" alt=\"Third slide\" class=\"max-height\">\n    <div class=\"carousel-caption hide\">\n      <h3>Simplicity</h3>\n      <p>Well want can i say? the picture says it all</p>\n    </div>\n  </slide>\n</carousel>\n</div>"
+module.exports = "<div class=\"container\">\n<carousel>\n  <slide>\n    <img src=\"assets/images/ansa/thiruvathira.png\" alt=\"First slide\" class=\"max-height\">\n    <div class=\"carousel-caption hide\">\n      <h3>Thiruvathara</h3>\n      <p>Come onam, and you can see her dance like a peacock with a lot of grace and elegance</p>\n    </div>\n  </slide>\n  <slide>\n    <img src=\"assets/images/ansa/moral-support.png\" alt=\"Second slide\" class=\"max-height\">\n    <div class=\"carousel-caption hide\">\n      <h3>Bharatanatyam</h3>\n      <p>You need someone to step into a classic dance attire dipicting various emotions through expressions, then she is the one you should call.</p>\n    </div>\n  </slide>\n  <slide>\n    <img src=\"assets/images/ansa/simplicity.png\" alt=\"Third slide\" class=\"max-height\">\n    <div class=\"carousel-caption hide\">\n      <h3>Moral support</h3>\n      <p>You feel confident, want to feel like there is always someone by your side... she's there isn't she?!</p>\n    </div>\n  </slide>\n    <slide>\n    <img src=\"assets/images/ansa/smile.png\" alt=\"Third slide\" class=\"max-height\">\n    <div class=\"carousel-caption hide\">\n      <h3>Smile</h3>\n      <p>People say smile is the prettiest thing on face,... need i say anything?!</p>\n    </div>\n  </slide>\n    <slide>\n    <img src=\"assets/images/ansa/bharathanaryam.png\" alt=\"Third slide\" class=\"max-height\">\n    <div class=\"carousel-caption hide\">\n      <h3>Simplicity</h3>\n      <p>Well want can i say? the picture says it all</p>\n    </div>\n  </slide>\n    <slide>\n    <img src=\"assets/images/others/dost0.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n      <slide>\n    <img src=\"assets/images/others/expert1.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n      <slide>\n    <img src=\"assets/images/others/dost1.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n      <slide>\n    <img src=\"assets/images/others/dost2.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n      <slide>\n    <img src=\"assets/images/others/expert2.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n      <slide>\n    <img src=\"assets/images/others/dost3.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n      <slide>\n    <img src=\"assets/images/others/expert3.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n      <slide>\n    <img src=\"assets/images/others/dost4.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n      <slide>\n    <img src=\"assets/images/others/expert4.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n      <slide>\n    <img src=\"assets/images/others/dost5.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n      <slide>\n    <img src=\"assets/images/others/dost6.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n  <slide>\n    <img src=\"assets/images/others/expert5.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n        <slide>\n    <img src=\"assets/images/others/dost7.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n        <slide>\n    <img src=\"assets/images/others/dost8.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n        <slide>\n    <img src=\"assets/images/others/dost9.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n        <slide>\n    <img src=\"assets/images/others/dost10.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n        <slide>\n    <img src=\"assets/images/others/dost11.jpg\" alt=\"Third slide\" class=\"max-height\">\n  </slide>\n</carousel>\n</div>"
 
 /***/ }),
 
@@ -606,7 +608,7 @@ module.exports = "<div class=\"col-md-6\">\n      <div class=\"msg-box\" [ngClas
 /***/ 542:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"container\">\n  <div class=\"row\">\n    <div *ngFor=\"let person of wishesArray; let i = index\">\n      <app-wishes-card [person]=\"person\" [i]=\"i\"></app-wishes-card>\n    </div>\n  </div>\n</div>"
+module.exports = "<div class=\"container\">\n  <div class=\"row\">\n    <div *ngFor=\"let person of wishesArray; let i = index\">\n      <app-wishes-card [person]=\"person\" [i]=\"i\"></app-wishes-card>\n    </div>\n  </div>\n    <div class=\"row\" id=\"special-card\">\n      <div class=\"col-md-11\">\n            <div class=\"msg-box\" [ngClass]=\"{'ansa-bg text-white': true}\">\n              <img src=\"assets/images/others/wish1.jpg\" alt=\"...\" class=\"custom-card img-responsive\">\n              <img src=\"assets/images/others/bhaga.jpg\" alt=\"...\" class=\"img-circle img-responsive\">\n            </div>\n      </div>\n  </div>\n      <div class=\"row\" id=\"special-card-2\">\n      <div class=\"col-md-11\">\n            <div class=\"msg-box\" [ngClass]=\"{'ansa-bg text-white': true}\">\n              <video width=\"100%\" controls>\n                <source src=\"assets/images/others/anna.mp4\" type=\"video/mp4\">\n              </video>\n              <img src=\"assets/images/others/ansa_mom.jpg\" alt=\"...\" class=\"custom-card img-responsive\">\n            </div>\n      </div>\n  </div>\n  <div class=\"row\" id=\"special-card-2\">\n      <div class=\"col-md-11\">\n            <div class=\"msg-box\" [ngClass]=\"{'ansa-bg text-white': true}\">\n              <img src=\"assets/images/others/wish3.jpg\" alt=\"...\" class=\"custom-card img-responsive\">\n            </div>\n      </div>\n  </div>\n</div>"
 
 /***/ }),
 

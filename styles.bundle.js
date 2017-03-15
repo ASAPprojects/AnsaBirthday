@@ -394,7 +394,7 @@ exports = module.exports = __webpack_require__(31)();
 
 
 // module
-exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\n.ansa-bg {\n    background: -webkit-linear-gradient(orange -71%, #f15353);\n}\n.ansa-text {\n    color: #f15353;\n}\n.text-white {\n    color: #fff;\n}", ""]);
+exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\n.ansa-bg {\n    background: -webkit-linear-gradient(orange -71%, #f15353);\n}\n.ansa-text {\n    color: #f15353;\n}\n.text-white {\n    color: #fff;\n}\n.birthday-overlay {\n    top: 0px;\n    right: 0px;\n    bottom: 0px;\n    left: 0px;\n    position: fixed;\n    background: -webkit-linear-gradient(top, orange -71%, rgb(241, 83, 83));\n    z-index: 999999;\n}", ""]);
 
 // exports
 
